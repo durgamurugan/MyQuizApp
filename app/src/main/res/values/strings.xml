@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="quiz_ap">QuizApp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_registered">NotReg</string>
+    <string name="register">Reg</string>
+    <string name="confirm_password">Conpassword</string>
+    <string name="already_registered">AlreadyReg</string>
+</resources>
